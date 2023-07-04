@@ -18,7 +18,7 @@
 - 🏢 I currently work at <a href="https://myper.com.pe/" target="_blank">Myper Software</a>.
 - 📝 I’m currently learning how to develop web applications using react. 
 - 🧑‍🤝‍🧑 Love interacting with the community, share knowledge and learn new things.
-- 🌐 Personal Web Site (updating).
+- 🌐 <a href="https://alexandergomez.netlify.app/" target="_blank">Personal Web Site</a>.
 - 📫 How to reach me: mpalexanderg@outlook.com.
 
 </br>
