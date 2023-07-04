@@ -3,7 +3,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=AlexanderG8&style=flat-square)](https://github.com/AlexanderG8)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-gomez-130587268/)
-[![Blog Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](updating)
+[![Blog Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://alexandergomez.netlify.app/)
 
 </br>
 
