@@ -1,6 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" /></h1>
 
-## 🌐 Socials:
 [![](https://visitcount.itsvg.in/api?id=AlexanderG8&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
