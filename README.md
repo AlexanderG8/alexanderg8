@@ -1,3 +1,5 @@
+![Alexander Gomez — Backend Developer .NET](./assets/banner.png)
+
 ## Alexander Gomez — Backend Developer .NET
 
 Desarrollo APIs REST y lógica de negocio en SQL Server para sistemas empresariales desde 2021. Actualmente construyo sistemas a medida integrados a un ERP: gestión de órdenes de pago con integración bancaria y gestión de facturas de proveedores.
