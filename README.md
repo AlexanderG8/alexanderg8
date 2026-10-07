@@ -1,4 +1,4 @@
-![Alexander Gomez — Backend Developer .NET](./assets/banner.png)
+![Alexander Gomez — Backend Developer .NET](./images/bannergithub.png)
 
 ## Alexander Gomez — Backend Developer .NET
 
